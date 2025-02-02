@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-name: Xinqi Wang
-email: wangxq@stu.hfuu.edu.cn
+name: Xinqi Wang<br>
+email: wangxq@stu.hfuu.edu.cn<br>
 I am currently studying at Hefei University
